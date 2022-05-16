@@ -4,7 +4,14 @@ Découverte du processus de gestion des réseaux
 ### Qu'est-ce que la gestion de réseau ?
 Le protocole de gestion de réseau (NMP) est une suite de protocoles de réseau qui définissent les processus, les procédures et les politiques de gestion, de surveillance et de maintenance d'un réseau informatique. Le NMP transmet et gère les opérations et les communications effectuées sur un réseau informatique.
 
+
+
 ## Principe de fonctionnement
+Il existe 2 principaux types de fonctionnement:
+* Query-Based: Le NMS (Network Manager Station) envoie une requête à un appareil afin d'extraire des données.
+
+* Event-based: Le NMS écoute les annonces
+
 Le système gère les périphériques réseau tels que les commutateurs, les routeurs, les points d'accès et les contrôleurs sans fil.<br>
 Il utilise généralement un serveur centralisé pour collecter les données des éléments du réseau. Le serveur peut être situé sur site, dans un centre de données privé ou dans le cloud.<br>
 
