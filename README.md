@@ -2,8 +2,7 @@
 Découverte du processus de gestion des réseaux
 
 ### Qu'est-ce que la gestion de réseau ?
-La gestion de réseau est le processus d'administration, de gestion et d'exploitation d'un réseau de données, à l'aide d'un système de gestion de réseau.
-Les systèmes de gestion de réseau modernes utilisent des logiciels et du matériel pour collecter et analyser en permanence des données et apporter des modifications de configuration afin d'améliorer les performances, la fiabilité et la sécurité.
+Le protocole de gestion de réseau (NMP) est une suite de protocoles de réseau qui définissent les processus, les procédures et les politiques de gestion, de surveillance et de maintenance d'un réseau informatique. Le NMP transmet et gère les opérations et les communications effectuées sur un réseau informatique.
 
 ## Principe de fonctionnement
 Le système gère les périphériques réseau tels que les commutateurs, les routeurs, les points d'accès et les contrôleurs sans fil.<br>
