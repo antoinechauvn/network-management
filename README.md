@@ -1,2 +1,18 @@
 # network-management
 Découverte du processus de gestion des réseaux
+
+### Qu'est-ce que la gestion de réseau ?
+La gestion de réseau est le processus d'administration, de gestion et d'exploitation d'un réseau de données, à l'aide d'un système de gestion de réseau.
+Les systèmes de gestion de réseau modernes utilisent des logiciels et du matériel pour collecter et analyser en permanence des données et apporter des modifications de configuration afin d'améliorer les performances, la fiabilité et la sécurité.
+
+## Principe de fonctionnement
+Le système gère les périphériques réseau tels que les commutateurs, les routeurs, les points d'accès et les contrôleurs sans fil.<br>
+Il utilise généralement un serveur centralisé pour collecter les données des éléments du réseau. Le serveur peut être situé sur site, dans un centre de données privé ou dans le cloud.<br>
+
+Les appareils, les clients et les applications sur le réseau peuvent envoyer des données au serveur avec des mises à jour sur leur état. Les administrateurs réseau peuvent surveiller les opérations du réseau en se connectant au serveur, généralement via un navigateur Web ou une application pour smartphone.<br>
+
+Les périphériques réseau envoient généralement des données au système de l'une des deux manières suivantes :
+
+* **SNMP :** Le protocole de gestion de réseau simple est une norme ouverte. Il est largement pris en charge par la plupart des fabricants d'éléments de réseau. Le système de gestion de réseau utilise SNMP pour « interroger » chaque élément du réseau. Chaque élément envoie alors une réponse au système.
+
+* **Télémétrie :** Un agent logiciel installé dans un élément du réseau permet la transmission automatique des indicateurs clés de performance en temps réel. La télémétrie remplace rapidement SNMP, car elle est plus efficace, peut produire beaucoup plus de points de données et est plus évolutive. Et les normes de télémétrie, telles que NETCONF/YANG, gagnent du terrain en tant que moyens d'offrir le même support multifournisseur que SNMP.
