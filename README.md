@@ -12,6 +12,13 @@ Il existe 2 principaux types de fonctionnement:
 
 * Event-based: Le NMS écoute les annonces
 
+Dans le SNMP on utilise:
+* ICMP
+* SNMP
+* WMI
+
+![image](https://user-images.githubusercontent.com/83721477/168546791-955c897e-35ac-4fea-b61a-f035036fa1f1.png)
+
 Le système gère les périphériques réseau tels que les commutateurs, les routeurs, les points d'accès et les contrôleurs sans fil.<br>
 Il utilise généralement un serveur centralisé pour collecter les données des éléments du réseau. Le serveur peut être situé sur site, dans un centre de données privé ou dans le cloud.<br>
 
