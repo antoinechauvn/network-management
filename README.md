@@ -8,9 +8,9 @@ Le protocole de gestion de réseau (NMP) est une suite de protocoles de réseau 
 
 ## Principe de fonctionnement
 Il existe 2 principaux types de fonctionnement:
-* Query-Based ou Polling Based: Le NMS (Network Manager Station) envoie une requête à un appareil afin d'extraire des données.
+* **Query-Based ou Polling Based:** Le NMS (Network Manager Station) envoie une requête à un appareil afin d'extraire des données.
 
-* Event-based: Le NMS écoute les annonces.
+* **Event-based:** Le NMS écoute les annonces.
 
 Le NMP comprends:
 * ICMP
